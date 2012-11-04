@@ -1,5 +1,0 @@
-Requirements for python-ldap
-1. python-dev
-2. libldap2-dev
-3. libsasl2-dev
-
